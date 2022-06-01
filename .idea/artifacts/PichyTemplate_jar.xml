@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="PichyTemplate:jar">
+    <output-path>$PROJECT_DIR$/../TEST_PLUGIN/plugins</output-path>
+    <root id="archive" name="PichyTemplate.jar">
+      <element id="module-output" name="PichyTemplate" />
+    </root>
+  </artifact>
+</component>

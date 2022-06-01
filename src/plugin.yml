@@ -1,0 +1,5 @@
+name: PichyTemplate
+website: https://nonopichy.github.io
+author: Nonopichy
+version: 1.0
+main: com.nonopichy.plugin.Main

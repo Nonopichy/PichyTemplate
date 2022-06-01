@@ -1,4 +1,4 @@
-package pichy.util;
+package com.nonopichy.pichylib.util;
 
 import org.bukkit.Location;
 import org.bukkit.entity.Entity;

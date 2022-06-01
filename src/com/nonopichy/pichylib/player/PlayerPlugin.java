@@ -1,11 +1,11 @@
-package pichy.player;
+package com.nonopichy.pichylib.player;
 
+import com.nonopichy.pichylib.util.Chat;
+import com.nonopichy.pichylib.util.Position;
 import lombok.AllArgsConstructor;
 import lombok.Getter;
 import org.bukkit.entity.LivingEntity;
 import org.bukkit.entity.Player;
-import pichy.util.Chat;
-import pichy.util.Position;
 
 import java.util.HashMap;
 import java.util.List;

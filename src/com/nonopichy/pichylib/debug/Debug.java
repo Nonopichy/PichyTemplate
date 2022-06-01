@@ -1,7 +1,7 @@
-package pichy.debug;
+package com.nonopichy.pichylib.debug;
 
+import com.nonopichy.pichylib.util.Chat;
 import org.bukkit.Bukkit;
-import pichy.util.Chat;
 
 import java.lang.reflect.Field;
 

@@ -1,4 +1,4 @@
-package pichy.server;
+package com.nonopichy.pichylib.server;
 
 import lombok.Getter;
 import org.bukkit.Bukkit;

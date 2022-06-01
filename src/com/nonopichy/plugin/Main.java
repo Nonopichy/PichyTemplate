@@ -1,5 +1,6 @@
 package com.nonopichy.plugin;
 
+import com.nonopichy.pichylib.server.ServerVersion;
 import lombok.Getter;
 import org.bukkit.command.CommandExecutor;
 import org.bukkit.command.PluginCommand;
@@ -7,7 +8,6 @@ import org.bukkit.command.TabCompleter;
 import org.bukkit.event.Listener;
 import org.bukkit.plugin.PluginManager;
 import org.bukkit.plugin.java.JavaPlugin;
-import pichy.server.ServerVersion;
 
 import java.util.Arrays;
 

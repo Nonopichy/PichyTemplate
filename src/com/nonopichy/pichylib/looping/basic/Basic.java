@@ -1,11 +1,11 @@
-package pichy.looping.basic;
+package com.nonopichy.pichylib.looping.basic;
 
+import com.nonopichy.pichylib.looping.Looping;
+import com.nonopichy.pichylib.player.players.SimplePlayer;
+import com.nonopichy.pichylib.util.Position;
 import org.bukkit.Bukkit;
 import org.bukkit.Location;
 import org.bukkit.entity.Player;
-import pichy.looping.Looping;
-import pichy.player.players.SimplePlayer;
-import pichy.util.Position;
 
 public class Basic {
     public static void allPlayers(Looping looping){
